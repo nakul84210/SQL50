@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/nakul84210/SQL50/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/nakul84210/SQL50/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/nakul84210/SQL50/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/nakul84210/SQL50/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
