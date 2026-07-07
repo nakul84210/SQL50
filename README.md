@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/nakul84210/SQL50/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/nakul84210/SQL50/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/nakul84210/SQL50/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/nakul84210/SQL50/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/nakul84210/SQL50/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nakul84210/SQL50/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/nakul84210/SQL50/tree/master/0607-sales-person) |
