@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/nakul84210/SQL50/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nakul84210/SQL50/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/nakul84210/SQL50/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/nakul84210/SQL50/tree/master/1158-market-analysis-i) |
 | [1407-top-travellers](https://github.com/nakul84210/SQL50/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/nakul84210/SQL50/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/nakul84210/SQL50/tree/master/1693-daily-leads-and-partners) |
